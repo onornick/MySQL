@@ -1,0 +1,1 @@
+SELECT UPPER(REVERSE('why does my cat look at me with such hatred'));

@@ -1,0 +1,1 @@
+SELECT CONCAT(title, REVERSE(title)) FROM books;
