@@ -22,7 +22,7 @@ VALUES
   ('tank top', 'white', 'S', 200),
   ('tank top', 'blue', 'M', 15);
 
---   ADD A NEW SHIRT
+-- ADD A NEW SHIRT
 -- Purple polo shirt, size M last worn 50 days ago
 
 INSERT INTO shirts (
