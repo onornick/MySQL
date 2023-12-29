@@ -1,0 +1,1 @@
+SELECT CONCAT(author_lname, ' ', author_fname) AS author_name, pages FROM books WHERE pages = (SELECT MIN(pages) FROM books);
